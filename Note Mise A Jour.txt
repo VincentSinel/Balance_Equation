@@ -6,7 +6,8 @@
 ║Derniere Mise a jour : V. 1.1  ║
 ╠═══════════════════════════════╝
 ║
-║	- Mises a jours automatiques
+║	- Ajout de la mise a jour automatique.
+║ - Modification des information de contact.
 ║
 ╠═══════════════════════════════╗
 ║Ancienne Mise a jour : V. 1.0  ║
