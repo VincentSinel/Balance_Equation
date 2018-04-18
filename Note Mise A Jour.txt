@@ -1,0 +1,34 @@
+╔═══════════════════════════════════════════╗
+║ Balance equation                V1.1      ║
+║ Sinel V.  2018                            ║
+╠═══════════════════════════════════════════╝
+╠═══════════════════════════════╗
+║Derniere Mise a jour : V. 1.1  ║
+╠═══════════════════════════════╝
+║
+║	- Mises a jours automatiques
+║
+╠═══════════════════════════════╗
+║Ancienne Mise a jour : V. 1.0  ║
+╠═══════════════════════════════╝
+║
+║ VISIBLE
+║	- Représentation graphique de résolution d'équation.
+║ 	- Suivit des égalité dans un tableaux.
+║	- Drag and drop de poids pour modifier l'état de la balance
+║	- Multiplication et division du contenue de la balance.
+║	- Prise en charge des fraction
+║	- Generation automatique d'une situation a partir d'une equation donnée.
+║	- Prise en charge des parenthèse et fraction dans la détection d'équation.
+║
+╠════════════════════════════════╗
+║A Venir  (Fix et nouveautes) :  ║
+╠════════════════════════════════╝
+║
+║
+║
+╠══════════════════════╗
+║Contact :             ║
+║    Sinel Vincent     ║
+║vincentsinel@gmail.com║
+╚══════════════════════╝
