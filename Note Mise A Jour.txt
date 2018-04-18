@@ -6,8 +6,8 @@
 ║Derniere Mise a jour : V. 1.1  ║
 ╠═══════════════════════════════╝
 ║
-║ - Ajout de la mise a jour automatique.
-║ - Modification des information de contact.
+║	- Ajout de la mise a jour automatique.
+║	- Modification des information de contact.
 ║
 ╠═══════════════════════════════╗
 ║Ancienne Mise a jour : V. 1.0  ║
@@ -15,7 +15,7 @@
 ║
 ║ VISIBLE
 ║	- Représentation graphique de résolution d'équation.
-║ 	- Suivit des égalité dans un tableaux.
+║	- Suivit des égalité dans un tableaux.
 ║	- Drag and drop de poids pour modifier l'état de la balance
 ║	- Multiplication et division du contenue de la balance.
 ║	- Prise en charge des fraction
