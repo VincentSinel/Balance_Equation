@@ -27,8 +27,8 @@
 ║
 ║
 ║
-╠══════════════════════╗
-║Contact :             ║
-║    Sinel Vincent     ║
-║vincentsinel@gmail.com║
-╚══════════════════════╝
+╠═════════════════════════════╗
+║Contact :                    ║
+║    Sinel Vincent            ║
+║vsprogramme.contact@gmail.com║
+╚═════════════════════════════╝
