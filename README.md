@@ -1,11 +1,10 @@
-<a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
-# Balance Equation
+# Balance Equation <a href="https://github.com/VincentSinel"><img align="right" src="https://raw.githubusercontent.com/VincentSinel/Image/master/Icone.png" width="233" style="margin:0px 30px" alt="VS Programme"></a>
 
 Petit logiciel à destination d'enseignants en mathématiques et leurs élèves. L'objectif est ici d'avoir une représentation visuel à l'aide d'une balance à plateau de la résolution d'une équation. Il offre la possibilité de faire manipuler par les élèves pour résoudre petit à petit une équation.
 
 ## Installation
 
-Aucuneinstallation nécessaire le logiciel peut-être lancé depuis n'importe quelle clè USB
+Aucune installation nécessaire le logiciel peut-être lancé depuis n'importe quelle clè USB
 
 ## Librairie
 
